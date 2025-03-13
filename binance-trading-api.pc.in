@@ -1,0 +1,11 @@
+prefix=@CMAKE_INSTALL_PREFIX@
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: binance-trading-api
+Description: C++ library for Binance Spot Trading API
+Version: @PROJECT_VERSION@
+Requires: libcurl openssl
+Libs: -L${libdir} -lbinance_api
+Cflags: -I${includedir}/binance
