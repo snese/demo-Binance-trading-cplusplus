@@ -1,3 +1,13 @@
+/**
+ * @file BinanceAPI.h
+ * @author HC
+ * @brief Main Binance API interface header - Personal Demo Project
+ * @version 1.0
+ * @date 2025-03-13
+ * 
+ * @copyright Copyright (c) 2025 HC
+ */
+
 #ifndef BINANCE_API_H
 #define BINANCE_API_H
 

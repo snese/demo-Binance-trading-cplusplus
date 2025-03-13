@@ -1,6 +1,8 @@
 # Binance Trading API C++ Library
 
-A modern C++ library for interacting with the Binance Spot Trading API, featuring comprehensive order types and real-time market data integration.
+*A personal demo project by HC*
+
+A modern C++ library for interacting with the Binance Spot Trading API, featuring comprehensive order types and real-time market data integration. This project showcases advanced C++ programming concepts and best practices in financial API integration.
 
 ## Features
 
